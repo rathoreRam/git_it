@@ -1,0 +1,61 @@
+\t (00:00:37) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:37)     Journal start - Tue Apr 19 18:44:52 2022
+\t (00:00:37)         Host=RAMKUMAR-PC User=RamKumar Pid=51176 CPUs=8
+\t (00:00:37) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:37) 
+   (00:00:37) Loading axlcore.cxt 
+\t (00:00:39) Starting new design...
+\i (00:00:39) trapsize 1357
+\i (00:00:39) trapsize 1421
+\i (00:00:40) trapsize 1635
+\i (00:00:41) generaledit 
+\i (00:00:45) trapsize 828
+\i (00:01:10) place manual 
+\i (00:01:31) setwindow form.plc_manual
+\i (00:01:31) FORM plc_manual advanced_settings  
+\i (00:01:32) FORM plc_manual library YES 
+\i (00:01:39) FORM plc_manual placement_list  
+\i (00:01:46) FORM plc_manual categories Package symbols 
+\i (00:01:51) FORM plc_manual categories Mechanical symbols 
+\i (00:01:51) FORM plc_manual categories Format symbols 
+\i (00:01:52) FORM plc_manual categories Mechanical symbols 
+\i (00:01:53) FORM plc_manual categories Package symbols 
+\i (00:02:19) FORM plc_manual tree  AX1000X300037 'Package symbols' 
+\i (00:02:21) FORM plc_manual tree 'MULTISEL YES' AX1000X300037 'Package symbols' 
+\i (00:03:23) FORM plc_manual tree  AX300X100028 'Package symbols' 
+\i (00:03:24) FORM plc_manual tree 'MULTISEL YES' AX300X100028 'Package symbols' 
+\i (00:03:37) FORM plc_manual propbtn YES 
+\i (00:03:46) FORM plc_manual tree 'MULTISEL NO' AX300X100028 'Package symbols' 
+\i (00:03:49) FORM plc_manual prevbtn YES 
+\i (00:03:50) FORM plc_manual propbtn YES 
+\i (00:03:51) FORM plc_manual tree 'MULTISEL YES' AX300X100028 'Package symbols' 
+\i (00:03:54) FORM plc_manual tree 'MULTISEL YES' AX1775X675050 'Package symbols' 
+\i (00:03:54) FORM plc_manual tree  AX1775X675050 'Package symbols' 
+\i (00:03:56) FORM plc_manual tree 'MULTISEL NO' AX300X100028 'Package symbols' 
+\i (00:03:56) FORM plc_manual tree  AX300X100028 'Package symbols' 
+\i (00:03:56) FORM plc_manual tree 'MULTISEL NO' AX1775X675050 'Package symbols' 
+\i (00:03:56) FORM plc_manual tree  AX1775X675050 'Package symbols' 
+\i (00:04:01) FORM plc_manual tree 'MULTISEL NO' AX1000X300037 'Package symbols' 
+\i (00:04:01) FORM plc_manual tree  AX1000X300037 'Package symbols' 
+\i (00:04:06) FORM plc_manual tree 'MULTISEL YES' AX300X100028 'Package symbols' 
+\i (00:04:06) FORM plc_manual tree  AX300X100028 'Package symbols' 
+\i (00:05:23) FORM plc_manual qvpropwnd 'Name: AX300X100028Type: Symbol DefinitionUnits:         MilsAccuracy:   1Pins: 2' 
+\i (00:06:22) FORM plc_manual tree 'MULTISEL YES' CPAX625X100031 'Package symbols' 
+\i (00:06:22) FORM plc_manual tree  CPAX625X100031 'Package symbols' 
+\i (00:06:49) FORM plc_manual tree 'MULTISEL NO' AX300X100028 'Package symbols' 
+\i (00:06:49) FORM plc_manual tree  AX300X100028 'Package symbols' 
+\i (00:07:02) FORM plc_manual tree 'MULTISEL YES' CPAX1025X300037 'Package symbols' 
+\i (00:07:02) FORM plc_manual tree  CPAX1025X300037 'Package symbols' 
+\i (00:07:08) FORM plc_manual qvpropwnd 'Name: CPAX1025X300037Type: Symbol DefinitionUnits:         MilsAccuracy:   1Pins: 2' 
+\i (00:07:16) FORM plc_manual tree 'MULTISEL NO' CPAX625X100031 'Package symbols' 
+\i (00:07:16) FORM plc_manual tree  CPAX625X100031 'Package symbols' 
+\i (00:07:17) FORM plc_manual tree 'MULTISEL YES' CPAX575X150031 'Package symbols' 
+\i (00:07:17) FORM plc_manual tree  CPAX575X150031 'Package symbols' 
+\i (00:07:29) FORM plc_manual tree 'MULTISEL NO' CPAX1025X300037 'Package symbols' 
+\i (00:07:29) FORM plc_manual tree  CPAX1025X300037 'Package symbols' 
+\i (00:07:37) FORM plc_manual qvpropwnd 'Name: CPAX575X150031Type: Symbol DefinitionUnits:         MilsAccuracy:   1Pins: 2' 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) exit 
+\e (00:11:38) Do you want to save the changes you made to unnamed.brd?
+\i (00:14:27) fillin no 
+\t (00:14:27)     Journal end - Tue Apr 19 18:58:43 2022
